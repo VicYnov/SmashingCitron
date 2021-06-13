@@ -1,0 +1,1 @@
+Les points de responsive se trouvent au niveau de la navbar (pas encore au top), du footer, et des articles
